@@ -4,7 +4,7 @@
 ## Write a short comment describing this function
 
 makeCacheMatrix <- function(x = matrix()) {
-
+this is a test of changes
 }
 
 
@@ -13,3 +13,5 @@ makeCacheMatrix <- function(x = matrix()) {
 cacheSolve <- function(x, ...) {
         ## Return a matrix that is the inverse of 'x'
 }
+
+https://class.coursera.org/rprog-003/forum/thread?thread_id=1089
